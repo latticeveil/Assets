@@ -39,4 +39,4 @@ Do not include a prebuilt atlas in this repo.
 
 1) Update `RELEASE_NOTES.md` with the new version tag.
 2) Regenerate `Assets.zip` from `fonts/` and `textures/`.
-3) Publish a GitHub release using the same tag (ex: `V5.2`).
+3) Publish a GitHub release using the same tag (ex: `v5.2`).
