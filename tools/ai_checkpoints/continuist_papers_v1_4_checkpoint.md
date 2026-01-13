@@ -20,10 +20,10 @@
 - Smoke: (not applicable)
 
 ## What was pushed
-- (pending)
+- Branch update/blocks-and-assets-v1_4 pushed to origin (commit c01388e).
 
 ## Next steps
-- Commit and push assets repo changes, then provide user test commands.
+- Await user validation after game repo smoke/build instructions.
 
 ## SWE-1.5 CONTINUATION PROMPT
-If taking over, commit and push assets repo changes on update/blocks-and-assets-v1_4, then update this checkpoint.
+If taking over, wait for user WORKED/NOT WORKING after providing test commands; no further assets changes expected in Phase 1.
