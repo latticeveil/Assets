@@ -13,6 +13,13 @@
 
 ---
 
+## The Artificer Update (v6)
+
+### Notes
+- Version bumped to v6 to reflect the scope of the Artificer update.
+
+---
+
 ## Grass Top + Sides Fix (v5.3)
 
 ### Changed

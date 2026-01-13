@@ -1,6 +1,6 @@
 # RedactedCraft Assets
 
-This repo contains the asset pack consumed by the game/launcher.
+This repo mirrors `RedactedCraftMonoGame/Defaults/Assets` from the game repo.
 
 ## Latest Update: The Continuist Papers
 
@@ -10,6 +10,7 @@ This repo contains the asset pack consumed by the game/launcher.
 ## Required structure
 
 `Assets.zip` must contain only:
+- `data/lore/**`
 - `fonts/default.fnt`
 - `textures/blocks/*.png`
 - `textures/menu/**`
@@ -39,6 +40,7 @@ Do not include a prebuilt atlas in this repo.
 
 - V5.x = small additions/removals or minor adjustments.
 - V6+ = large texture drops or major pack changes.
+- The Artificer Update is versioned as v6 to reflect the scope of the asset drop.
 
 ## Release checklist
 
