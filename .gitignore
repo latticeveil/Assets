@@ -1,3 +1,6 @@
 *.exe
 asset_state.json
 Assets.zip
+_tmp_canon_v1_4/
+_wt_*/
+*.log
