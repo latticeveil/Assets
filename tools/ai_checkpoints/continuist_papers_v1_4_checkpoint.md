@@ -27,10 +27,10 @@
   - 7844F9D4FFF987C4C0B62655B12105F3A562AEFFA0BCE8FCF435884622503EE7
 
 ## What was pushed
-- Nothing pushed yet for update/gravestone-model-v1.
+- Pushed update/gravestone-model-v1 (commit 8f65eaf).
 
 ## Next steps
-- Stage changes (including Assets.zip with git add -f), commit, and push update/gravestone-model-v1.
+- Print pull/build/smoke/assetview commands and wait for WORKED/NOT WORKING.
 
 ## SWE-1.5 CONTINUATION PROMPT
-You are SWE-1.5 taking over in the Assets repo at update/gravestone-model-v1. Stage model/texture/Assets.zip changes (use git add -f for Assets.zip), commit, and push the branch.
+You are SWE-1.5 taking over in the Assets repo at update/gravestone-model-v1. Branch is pushed; wait for WORKED/NOT WORKING response.
