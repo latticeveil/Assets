@@ -1,13 +1,26 @@
+## The Lore & Launcher Update (v6.1.1)
+
+![LatticeVeil Banner](https://raw.githubusercontent.com/latticeveil/Assets/main/textures/menu/backgrounds/MainMenu.png)
+
+### Changed
+- New menu backgrounds: Create World, Profile, World Generation.
+- Assets.zip regenerated from `textures/` only.
+
+### Links
+- Game release: https://github.com/latticeveil/LatticeVeil/releases/tag/v6.1.1
+
+---
+
 ## The LatticeVeil Transition (v6.1)
 
 ![LatticeVeil Banner](https://raw.githubusercontent.com/latticeveil/Assets/main/textures/menu/backgrounds/MainMenu.png)
 
 ### Changed
-- Regenerated `Assets.zip` from `data/`, `fonts/`, and `textures/`.
+- Regenerated `Assets.zip` from `textures/` only.
 - Removed non-asset documentation from the release bundle.
 
 ### Notes
-- Package structure remains: `data/lore/**`, `fonts/default.fnt`, `textures/blocks/*.png`, `textures/menu/**`.
+- Package structure remains: `textures/blocks/*.png`, `textures/menu/**`.
 
 ### Links
 - Game release: https://github.com/latticeveil/LatticeVeil/releases/tag/v6.1.0

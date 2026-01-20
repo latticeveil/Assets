@@ -1,6 +1,14 @@
 *.exe
 asset_state.json
+.asset_state.json
 Assets.zip
 _tmp_canon_v1_4/
 _wt_*/
 *.log
+data/
+fonts/
+Models/
+packs/
+Screenshots/
+assets_manifest.json
+settings.json

@@ -1,21 +1,19 @@
-# RedactedCraft Assets
+# LatticeVeil Assets
 
-This repo mirrors `RedactedCraftMonoGame/Defaults/Assets` from the game repo.
+This repo mirrors `LatticeVeilMonoGame/Defaults/Assets/textures` from the game repo.
 
-## Latest Update: The Continuist Papers
+## Latest Update: The Lore & Launcher Update (v6.1.1)
 
-- Added lore-aligned block textures: runestone, veinstone, veilglass, resonance core, waybound frame, transit regulator.
-- Compatible with the v1.1d lore pack content drop.
+- Added menu background textures for Create World, Profile, and World Generation screens.
+- Assets.zip regenerated from `textures/` only (no lore/data in this repo).
 
 ## Required structure
 
 `Assets.zip` must contain only:
-- `data/lore/**`
-- `fonts/default.fnt`
 - `textures/blocks/*.png`
 - `textures/menu/**`
 
-Anything outside those folders is ignored and should not be shipped.
+Only textures are shipped from this repo. Other asset types live in the game repo Defaults/Assets.
 
 ## Block texture format (cube-net)
 
@@ -45,5 +43,5 @@ Do not include a prebuilt atlas in this repo.
 ## Release checklist
 
 1) Update `RELEASE_NOTES.md` with the new version tag.
-2) Regenerate `Assets.zip` from `fonts/` and `textures/`.
+2) Regenerate `Assets.zip` from `textures/`.
 3) Publish a GitHub release using the same tag (ex: `v5.2`).
