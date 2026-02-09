@@ -1,39 +1,30 @@
 # LatticeVeil Assets
 
-## V7.0.0 "Quantum Genesis" Assets
+## V8.0.0 "Cacheforge Update" Assets
 
-This repository contains the game assets for LatticeVeil V7.0.0.0 "Quantum Genesis" release.
+This repository contains the runtime asset pack used by LatticeVeil release builds.
 
-### Contents
+## Release Files
+- `Assets.zip` (latest release asset)
+- `LatticeVeilMonoGame.exe` (latest release convenience mirror)
 
-- **Assets/** - Complete game assets including:
-  - **textures/** - All block and item textures
-  - **models/** - 3D models for blocks and entities
-  - **sounds/** - Audio files for game sounds
-  - **shaders/** - Custom shader files
-  - **config/** - Configuration files
+Latest release page:
+- https://github.com/latticeveil/Assets/releases/latest
 
-### Asset Specifications
+## Runtime Install Path
+Release builds install and read assets from:
+- `Documents\\LatticeVeil\\Assets`
 
-- **Texture Format**: PNG with alpha channel
-- **Model Format**: Custom binary format
-- **Audio Format**: OGG Vorbis
-- **Shader Format**: HLSL
+The launcher downloads `Assets.zip` from this repository's latest release feed and installs it to the path above.
 
-### Version Information
+## Repository Structure
+- `Assets/textures` - menu and block textures
+- `Assets/Models` - model JSON files
+- `Assets/data` - content data and lore tables
+- `Assets/fonts` - font assets
 
-- **Game Version**: V7.0.0 "Quantum Genesis"
-- **Release Date**: January 28, 2026
-- **Compatibility**: Compatible with LatticeVeil V7.0.0 and later
+## Compatibility
+- Target game release: `V8.0.0` and compatible patch versions.
 
-### Usage
-
-These assets are automatically loaded by the LatticeVeil game engine. The game expects the assets to be in the `Assets/` directory structure as shown in this repository.
-
-### License
-
-All assets are proprietary to LatticeVeil and are covered by the game's license terms.
-
----
-
-**Note**: This repository is maintained as part of the LatticeVeil V7.0.0.0 "Quantum Genesis" release.
+## License
+Assets are part of the LatticeVeil project and follow the project license terms.
