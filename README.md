@@ -17,6 +17,10 @@ Release builds install and read assets from:
 
 The launcher downloads `Assets.zip` from this repository's latest release feed and installs it to the path above.
 
+## Latest Refresh
+- **2026-02-09 Texture Sync**: `Assets/textures` was refreshed from `LatticeVeilMonoGame/Defaults/Assets/textures` to match the newest in-game UI and block art.
+- Includes updated menu GUI/button sets, gamemode icons, and additional texture files required by current gameplay/UI.
+
 ## Repository Structure
 - `Assets/textures` - menu and block textures
 - `Assets/Models` - model JSON files
