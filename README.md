@@ -1,10 +1,10 @@
 # LatticeVeil Assets
 
-## 🎨 V9.0.0 "Gatekeeper's Fix" Assets
+## V10.0.0 "Worldshaper Reforged" Assets
 
-This repository contains the official runtime asset pack used by current LatticeVeil release builds.
+This repository contains the official runtime asset pack for the current LatticeVeil release line.
 
-## 📦 Release Files
+## Release Files
 - `Assets.zip` (latest release asset)
 
 Latest release page:
@@ -13,35 +13,27 @@ Latest release page:
 Game release page:
 - https://github.com/latticeveil/LatticeVeil/releases/latest
 
-## 🧩 Runtime Install Path
+## Runtime Install Path
 Release builds install and read assets from:
 - `Documents\\LatticeVeil\\Assets`
 
 The launcher downloads `Assets.zip` from this repository's latest release feed and installs it to the path above.
 
-## 🔄 Latest Refresh
-- Synced from `LatticeVeilMonoGame/Defaults/Assets` for the Gatekeeper's Fix release pass.
-- Includes new multiplayer background images, updated air.png texture, enhanced GUI assets, and current content data files.
+## V10 Refresh Highlights
+- Synced from current `LatticeVeilMonoGame/Defaults/Assets`.
+- Updated major block textures and atlas outputs for the v10 rendering pass.
+- Refined transparency-focused block textures (glass, veilglass, leaves) for cleaner in-game readability.
+- Included updated UI layout and asset-manifest files used by current runtime.
+- Removed lore data tables from the public asset distribution path.
 
-## 🎨 New in V9.0.0
-- **Multiplayer Backgrounds**: 5 new background images for multiplayer screens
-  - InviteFriends_bg.png - Friend invitation screen
-  - JoinByCode_bg.png - Code joining screen
-  - Kicked_background.png - Kick/disconnect screen
-  - MultiplayerHost_bg.png - Multiplayer hosting screen
-  - ShareJoinCode_bg.png - Code sharing screen
-- **New Texture**: air.png for improved block rendering
-- **Enhanced Structure**: Optimized asset organization for better performance
-
-## 🗂️ Repository Structure
+## Repository Structure
 - `Assets/textures` - menu and block textures
 - `Assets/Models` - model JSON files
-- `Assets/data` - content data and lore tables
 - `Assets/fonts` - font assets
+- `Assets/effects` - runtime shader/effect assets
 
-## ⚠️ Compatibility
-- Target game release: `V9.0.0` and compatible patch versions.
-- Includes major online system updates and multiplayer improvements.
+## Compatibility
+- Target game release: `V10.0.0` and compatible patch versions.
 
-## 📜 License
+## License
 Assets are part of the LatticeVeil project and follow the project license terms.
