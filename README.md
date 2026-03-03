@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/latticeveil/latticeveil.github.io/master/assets/logo.png" alt="LatticeVeil" width="520" />
+</p>
+
+<p align="center">
+  <strong>Official Runtime Asset Pack Repository</strong>
+</p>
+
+<p align="center">
+  <a href="https://latticeveil.github.io">Website</a> •
+  <a href="https://github.com/latticeveil/Assets/releases/latest">Latest Assets Release</a> •
+  <a href="https://github.com/latticeveil/LatticeVeil/releases/latest">Latest Game Release</a>
+</p>
+
 # LatticeVeil Assets
 
 ## V10.0.0 "Worldshaper Reforged" Assets
