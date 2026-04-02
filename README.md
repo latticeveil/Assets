@@ -12,9 +12,9 @@
   <a href="https://github.com/latticeveil/LatticeVeil/releases/latest">Latest Game Release</a>
 </p>
 
-# LatticeVeil Assets
+# LatticeVeil: Chrono Weaver Assets
 
-## V10.0.0 "Worldshaper Reforged" Assets
+## V12.0.0 "Chrono Weaver" Assets
 
 This repository contains the official runtime asset pack for the current LatticeVeil release line.
 

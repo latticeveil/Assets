@@ -1,5 +1,19 @@
 # Assets Changelog
 
+## v12.0.0 - "Chrono Weaver Assets" - 2026-04-02
+
+### 🏷️ Branding Alignment
+- **Chrono Weaver Theme**: Updated asset package to match temporal manipulation branding
+- **Version Synchronization**: Aligned with V12.0.0 game release
+- **Metadata Consistency**: Updated README and changelog with new naming
+
+### 📦 Asset Distribution
+- **Installer Compatibility**: Assets remain compatible with installer-first distribution
+- **Runtime Structure**: Maintained existing asset organization for launcher compatibility
+- **Version Tracking**: Updated to V12.0.0 for proper version resolution
+
+---
+
 ## v10.0.0 - "Worldshaper Reforged Assets" - 2026-03-03
 
 ### Texture and Visual Pass
