@@ -1,5 +1,24 @@
 # Assets Changelog
 
+## v13.0.0 - "Frontier Polish Assets" - 2026-04-04
+
+### 🧭 Release Sync
+- **Version Synchronization**: Aligned with the V13.0.0 game release
+- **Latest-Release Contract**: Assets continue shipping as `Assets.zip` from the latest GitHub release
+- **Historical Integrity**: V12.0.0 remains untouched while V13.0.0 becomes the new latest public asset line
+
+### 📦 Packaging Cleanup
+- **Source of Truth**: Rebuilt from `LatticeVeilMonoGame/Defaults/Assets`
+- **Runtime-Only Payload**: Public package contains only the live runtime asset folders required by the game
+- **No Local Update Tracker**: Removed reliance on any packaged local "latest version" file for remote asset update discovery
+
+### 🎨 Content Alignment
+- **GUI Refresh Alignment**: Synced current menu/button art used by the latest interface pass
+- **Screenshot Button Update**: Includes the refreshed screenshot button art from the current runtime defaults
+- **Worldgen Support Assets**: Kept the active terrain-facing texture/model set aligned with the current game build
+
+---
+
 ## v12.0.0 - "Chrono Weaver Assets" - 2026-04-02
 
 ### 🏷️ Branding Alignment
