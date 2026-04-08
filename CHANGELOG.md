@@ -1,5 +1,24 @@
 # Assets Changelog
 
+## v14.0.0 - "Veilborne Vitals Assets" - 2026-04-08
+
+### ❤️ Survival HUD Additions
+- **Health HUD Sheet**: Added the new `health.png` runtime GUI asset used for the first visible health band.
+- **Hunger HUD Sheet**: Added the new `hunger.png` runtime GUI asset so hunger now visually ships with the survival pass.
+- **Runtime Alignment**: Both HUD sheets are aligned to the current in-game survival layout rather than older placeholder art.
+
+### 🜂 Attunement Placeholder Art
+- **Sigil/Attunement Sheet**: Added `sigil_balance_mockup.png` as the current placeholder Attunement HUD asset.
+- **Atonement vs Curse Split**: The art supports the current split-circle left/right meter presentation used by Veilwalker.
+- **Work-In-Progress Notice**: This asset intentionally represents a placeholder system while the default gameplay loop is still being finished.
+
+### 📦 Release Sync
+- **Version Synchronization**: Aligned with the `v14.0.0` game release.
+- **Current Live Baseline**: This release advances the public asset line from `v13.0.0`.
+- **Optional UI Note**: Players who do not want the placeholder Attunement UI can disable it in-game with `/rule sigil off`.
+
+---
+
 ## v13.0.0 - "Frontier Polish Assets" - 2026-04-04
 
 ### 🧭 Release Sync
